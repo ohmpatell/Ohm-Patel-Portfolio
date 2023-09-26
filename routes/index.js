@@ -1,3 +1,7 @@
+// <!-- Ohm Patel - 301277876 - 26th Sept. - Ohm Patel Portfolio - index.js -->
+
+// Routes to different pages
+
 var express = require("express");
 var router = express.Router();
 
