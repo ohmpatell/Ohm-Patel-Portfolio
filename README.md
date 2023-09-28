@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website built using Express.js and EJS templating! This website showcases my skills, projects, and services as a web developer.
 
-![Ohm Patel Portfolio](![image](https://github.com/ohmpatell/Ohm-Patel-Portfolio/assets/122646582/b49993e9-64a2-4b6d-b9b5-c07d3797fa8b)
-)
+![Ohm Patel Portfolio](![image](https://github.com/ohmpatell/Ohm-Patel-Portfolio/assets/122646582/b49993e9-64a2-4b6d-b9b5-c07d3797fa8b))
 
 ## Table of Contents
 
